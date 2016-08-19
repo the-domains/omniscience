@@ -1,0 +1,14 @@
+layout_spectrum: 0.1827957
+color:
+  saturation: 1
+  brandStrength: 0.8405018
+  lightness: 0.4336918
+  brandColors:
+    - '#95ADB9'
+    - '#143544'
+    - '#688C9A'
+    - '#B9DBE6'
+    - '#0B0A0C'
+  rhythmicContrast: 0.1594982
+typography_spectrum: 0.9551972
+name: Omniscience
